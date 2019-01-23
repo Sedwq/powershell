@@ -18,7 +18,7 @@ $To = "ced.adm@dba.fr"
 $SMTPServer = "smtp"
 $subject = "Rapport des bases MySQL OK"
 
-$user = "admdba"
+$user = "xxxxxxx"
 $pwd = "xxxxxxxxxxxxxx"
 $MYSQL = "C:\Program Files\MySQL\MySQL Server 5.0\bin\mysql.exe"
 
